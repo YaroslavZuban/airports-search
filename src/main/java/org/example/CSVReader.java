@@ -37,7 +37,7 @@ public class CSVReader {
                 }
             }
         } catch (IOException e) {
-            System.out.println("Ошибка ввода номера колонки.");
+            System.out.println("Ошибка");
         }
     }
 
